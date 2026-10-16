@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 public class gitConflict {
     @Test
     void git(){
-        int y = 4;
+        int y = 5;
         Assertions.assertTrue(y > 1);
 
   }

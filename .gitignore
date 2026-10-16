@@ -16,6 +16,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .gigaide
+.idea
 
 ### Eclipse ###
 .apt_generated
